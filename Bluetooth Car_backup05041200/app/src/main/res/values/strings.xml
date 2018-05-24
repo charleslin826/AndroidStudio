@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListViewEX</string>
+    <string name="ok">確定</string>
+    <string name="cancel">取消</string>
+
+    <string-array name="song_name">
+        <item>Song 1</item>
+        <item>Song 2</item>
+        <item>Song 3</item>
+        <item>Song 4</item>
+    </string-array>
+
+</resources>

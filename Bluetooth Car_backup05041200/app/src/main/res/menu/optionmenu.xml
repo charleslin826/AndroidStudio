@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id = "@+id/discoverable"
+        android:icon = "@drawable/wifi"
+        android:title = "discoverable"
+        android:showAsAction="always"/> <!-- 這邊會變成圖像直接顯示 而且不會像never一樣被縮到"..."裡面 ; 另外還有ifRoom,withText等參數-->
+    <item
+        android:id = "@+id/search"
+        android:icon = "@drawable/search"
+        android:title = "search"
+        android:showAsAction="always"/>
+
+</menu>
