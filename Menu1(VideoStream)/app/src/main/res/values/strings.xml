@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Menu1</string>
+    <string name="rtsp">rtsp://184.72.239.149/vod/mp4:BigBuckBunny_115k.mov</string>
+    <string name="ok">確定</string>
+    <string name="cancel">取消</string>
+    <string name="exit">離開</string>
+    <string name="like_android">"Do you like Android system ?"</string>
+    <string name="like">喜歡!</string>
+    <string name="dislike">不喜歡</string>
+    <string name="no_idea">沒意見</string>
+
+    <string name="button_text1">1.雙鑑對話框</string>
+    <string name="button_text2">2.多鑑對話框</string>
+    <string name="button_text3">3.單選項對話框</string>
+    <string name="button_text4">4.多選項對話框</string>
+
+    <string-array name="drink">
+        <item>紅茶</item>
+        <item>咖啡</item>
+        <item>牛奶</item>
+    </string-array>
+
+    <string-array name="food">
+        <item>漢堡</item>
+        <item>排骨飯</item>
+        <item>義大利麵</item>
+    </string-array>
+</resources>
